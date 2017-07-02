@@ -82,5 +82,4 @@ while (disp == 0):
 	# turtle.penup()
 	# turtle.setposition((random.randint(-jumpx,jumpx)), (random.randint(-jumpy,jumpy)))
 	# random.choice(myshapes)()
-	
 turtle.done()
